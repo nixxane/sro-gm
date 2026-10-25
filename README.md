@@ -75,4 +75,6 @@ To undo, stop the fleet, put the backup back as `shards/<division>/authority/sta
 
 ## License
 
-MIT
+GPL-3.0-or-later. See [LICENSE](LICENSE).
+
+The tool builds against OpenSRO's server packages, which are AGPL-3.0; GPLv3 and AGPLv3 are compatible (section 13 of each), and those packages stay under their own license.
